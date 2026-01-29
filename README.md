@@ -1,4 +1,4 @@
-# Curso de Python Santander - Repositorio Educativo Completo
+# Curso de Python Santander
 
 ## Descripción General
 
