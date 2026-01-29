@@ -34,24 +34,16 @@ Santander-Python/
 │   └── Sets.py                    # Conjuntos y operaciones
 │
 ├── 02/ - Tópicos Avanzados (9 archivos)
-│   ├── Functions.py               # Definición, parámetros, retornos
-│   ├── ErrorHandling.py           # Try-except-finally fundamentals
-│   ├── Exceptions.py              # Mecanismos de excepciones
-│   ├── CustomExceptions.py        # Crear excepciones personalizadas
-│   ├── InputOutput.py             # Entrada/salida del usuario
-│   ├── FileOperations.py          # Leer y escribir archivos
-│   ├── Modules.py                 # Módulos y la librería estándar
-│   ├── CustomModules.py           # Crear módulos personalizados
-│   └── Packages.py                # Organización en paquetes
-│
-└── Archivos Generados por Scripts (ejemplos de FileOperations.py)
-    ├── greeting.txt
-    ├── log.txt
-    ├── multiline.txt
-    ├── poem.txt
-    ├── sample.txt
-    ├── students.txt
-    └── user_info.txt
+    ├── Functions.py               # Definición, parámetros, retornos
+    ├── ErrorHandling.py           # Try-except-finally fundamentals
+    ├── Exceptions.py              # Mecanismos de excepciones
+    ├── CustomExceptions.py        # Crear excepciones personalizadas
+    ├── InputOutput.py             # Entrada/salida del usuario
+    ├── FileOperations.py          # Leer y escribir archivos
+    ├── Modules.py                 # Módulos y la librería estándar
+    ├── CustomModules.py           # Crear módulos personalizados
+    └── Packages.py                # Organización en paquetes
+
 ```
 
 ## Contenido del Curso
