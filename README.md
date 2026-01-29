@@ -29,7 +29,6 @@ Santander-Python/
 │   ├── Loops.py                   # Bucles (for, while, break, continue)
 │   ├── DataStructures.py          # Listas y Tuplas
 │   ├── Dictionaries.py            # Diccionarios y operaciones clave-valor
-│   ├── Dictionarys.py             # Diccionarios (variante alternativa)
 │   ├── Tuples.py                  # Tuplas en detalle
 │   ├── List.py                    # Listas en detalle
 │   └── Sets.py                    # Conjuntos y operaciones
