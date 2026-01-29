@@ -1,6 +1,0 @@
-Name,Score,Grade
-Alice,95,A
-Bob,87,B
-Charlie,92,A
-Diana,78,C
-Eva,88,B

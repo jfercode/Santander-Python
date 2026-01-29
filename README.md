@@ -20,7 +20,7 @@ Santander-Python/
 ├── README.md                      # Este archivo
 ├── LICENSE                        # Licencia MIT del proyecto
 │
-├── 01/ - Fundamentos de Python
+├── 01/ - Fundamentos de Python (12 archivos)
 │   ├── Introduction.py            # Conceptos básicos y sintaxis
 │   ├── Fundaments.py              # Tipos de datos (int, float, str, bool)
 │   ├── Variables.py               # Declaración y reglas de nombres
@@ -29,20 +29,30 @@ Santander-Python/
 │   ├── Loops.py                   # Bucles (for, while, break, continue)
 │   ├── DataStructures.py          # Listas y Tuplas
 │   ├── Dictionaries.py            # Diccionarios y operaciones clave-valor
+│   ├── Dictionarys.py             # Diccionarios (variante alternativa)
 │   ├── Tuples.py                  # Tuplas en detalle
 │   ├── List.py                    # Listas en detalle
 │   └── Sets.py                    # Conjuntos y operaciones
 │
-└── 02/ - Tópicos Avanzados
-    ├── Functions.py               # Definición, parámetros, retornos
-    ├── ErrorHandling.py           # Try-except-finally fundamentals
-    ├── Exceptions.py              # Mecanismos de excepciones
-    ├── CustomExceptions.py        # Crear excepciones personalizadas
-    ├── InputOutput.py             # Entrada/salida del usuario
-    ├── FileOperations.py          # Leer y escribir archivos
-    ├── Modules.py                 # Módulos y la librería estándar
-    ├── CustomModules.py           # Crear módulos personalizados
-    └── Packages.py                # Organización en paquetes
+├── 02/ - Tópicos Avanzados (9 archivos)
+│   ├── Functions.py               # Definición, parámetros, retornos
+│   ├── ErrorHandling.py           # Try-except-finally fundamentals
+│   ├── Exceptions.py              # Mecanismos de excepciones
+│   ├── CustomExceptions.py        # Crear excepciones personalizadas
+│   ├── InputOutput.py             # Entrada/salida del usuario
+│   ├── FileOperations.py          # Leer y escribir archivos
+│   ├── Modules.py                 # Módulos y la librería estándar
+│   ├── CustomModules.py           # Crear módulos personalizados
+│   └── Packages.py                # Organización en paquetes
+│
+└── Archivos Generados por Scripts (ejemplos de FileOperations.py)
+    ├── greeting.txt
+    ├── log.txt
+    ├── multiline.txt
+    ├── poem.txt
+    ├── sample.txt
+    ├── students.txt
+    └── user_info.txt
 ```
 
 ## Contenido del Curso
@@ -359,15 +369,6 @@ Cada archivo de error muestra cómo reconocer y manejar estos errores.
 - [Santander Open Academy](https://www.santander.com/es/open-academy)
 - [Python.org - Comunidad](https://www.python.org/community/)
 
-## Contribuciones y Mejoras
-
-Este es un proyecto educativo. Si deseas:
-- Reportar errores
-- Sugerir mejoras
-- Contribuir código
-- Mejorar documentación
-
-¡Eres bienvenido a hacer un fork y crear pull requests!
 
 ---
 
@@ -390,45 +391,9 @@ Este es un proyecto educativo. Si deseas:
 
 Este proyecto está bajo la licencia **MIT**.
 
-```
-MIT License
-
-Copyright (c) 2026 Javier Fernández Correa
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
 Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
-## Agradecimientos 🙏
-
-Agradecimientos especiales a:
-- **Santander Open Academy** por proporcionar esta excelente oportunidad de aprendizaje
-- **La comunidad de Python** por sus continuos recursos y apoyo
-- **Todos los estudiantes** que usan este material para aprender
-
----
-
-## Estadísticas del Proyecto
-
-- 📁 **2 Carpetas** de contenido
-- 📄 **21 Archivos Python** educativos
-- 📚 **18 Tópicos principales** cubiertos
-- ✅ **Todos los scripts ejecutables**
-- 🎯 **Más de 10,000 líneas** de código documentado
-
----
-
-**¡Happy Learning!** 🎓📚💻
 
 *Última Actualización: 29 de Enero de 2026*
